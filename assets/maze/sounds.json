@@ -16,32 +16,67 @@
   },
   "ship.takeoff": {
     "sounds": [
-      {"name": "maze:takeoff"}
+      { "name": "maze:takeoff" }
     ]
   },
   "ship.landing": {
     "sounds": [
-      {"name": "maze:landing"}
+      { "name": "maze:landing" }
     ]
   },
   "maze.elevator": {
     "sounds": [
-      {"name": "maze:elevator"}
+      { "name": "maze:elevator" }
     ]
   },
   "maze.boxbeep": {
     "sounds": [
-      {"name": "maze:boxbeep"}
+      { "name": "maze:boxbeep" }
     ]
   },
   "maze.boxdoor": {
     "sounds": [
-      {"name": "maze:boxdoor"}
+      { "name": "maze:boxdoor" }
     ]
   },
   "ship.bell": {
-    "sounds" : [
-      {"name": "maze:bell"}
+    "sounds": [
+      { "name": "maze:bell" }
+    ]
+  },
+  "lab.doors": {
+    "sounds": [
+      { "name": "maze:lab_doors" }
+    ]
+  },
+  "paiges.recording": {
+    "sounds": [
+      { "name": "maze:paiges_recording" }
+    ]
+  },
+  "lab.music": {
+    "sounds": [
+      { "name": "maze:lab_music" }
+    ]
+  },
+  "helicopter.start": {
+    "sounds": [
+      { "name": "maze:helicopter_start" }
+    ]
+  },
+  "paiges.meeting": {
+    "sounds": [
+      { "name": "maze:paiges_meeting" }
+    ]
+  },
+  "ending.music": {
+    "sounds": [
+      { "name": "maze:ending_music" }
+    ]
+  },
+  "helicopter.end": {
+    "sounds": [
+      { "name": "maze:helicopter_end" }
     ]
   }
 }
