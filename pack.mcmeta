@@ -1,6 +1,6 @@
 {
   "pack": {
-    "min_format": 84,
+    "min_format": 63,
     "max_format": 105,
     "description": "Maze Runner Map Resources"
   }
