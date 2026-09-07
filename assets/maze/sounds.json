@@ -79,9 +79,15 @@
       { "name": "maze:helicopter_end" }
     ]
   },
-  "groober.scream": {
+  "griever.scream": {
     "sounds": [
-      { "name": "maze:groober" }
+      { "name": "maze:griever_0" },
+      { "name": "maze:griever_1" },
+      { "name": "maze:griever_2" },
+      { "name": "maze:griever_3" },
+      { "name": "maze:griever_4" },
+      { "name": "maze:griever_5" },
+      { "name": "maze:griever_6" }
     ]
   }
 }
