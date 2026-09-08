@@ -2,12 +2,13 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "block/cobblestone",
-		"7": "block/stone_bricks",
-		"9": "block/nether_bricks",
-		"10": "block/stone",
-		"11": "block/bedrock",
-		"12": "block/andesite"
+		"6": "minecraft:block/cobblestone",
+		"7": "minecraft:block/stone_bricks",
+		"9": "minecraft:block/nether_bricks",
+		"10": "minecraft:block/stone",
+		"11": "minecraft:block/bedrock",
+		"12": "minecraft:block/andesite",
+		"particle": "minecraft:block/stone"
 	},
 	"elements": [
 		{
