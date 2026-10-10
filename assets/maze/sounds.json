@@ -89,15 +89,5 @@
       { "name": "maze:griever_5" },
       { "name": "maze:griever_6" }
     ]
-  },
-  "": {
-    "sounds": [
-      {}
-    ]
-  },
-  "": {
-    "sounds": [
-      {}
-    ]
   }
 }
